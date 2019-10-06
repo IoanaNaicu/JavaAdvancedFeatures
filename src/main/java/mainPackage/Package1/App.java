@@ -7,5 +7,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println(person1.age + person1.gender + person1.id + person2.gender);
         person1.getPersonDetails();
+
     }
 }
