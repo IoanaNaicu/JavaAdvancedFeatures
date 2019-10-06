@@ -1,0 +1,4 @@
+Ati introdus caracterul D. Codul ASCII este 68
+Ati introdus caracterul J. Codul ASCII este 74
+Ati introdus caracterul A. Codul ASCII este 65
+Ati introdus caracterul  . Codul ASCII este 32
